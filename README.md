@@ -1,2 +1,2 @@
 # panopticon
-Panopticon human detector for disastor response (IBM Challenge)
+Panopticon human detector for earthquake response (IBM Challenge)
